@@ -13,10 +13,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           submodules: recursive # 如果你使用了主题子模块，这行很重要
-      - name: Use Node.js 20
+      - name: Use Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # 这里的版本号要和你本地 Node.js 的主版本号一致
+          node-version: "24" # 这里的版本号要和你本地 Node.js 的主版本号一致
       - name: Cache NPM dependencies
         uses: actions/cache@v4
         with:
