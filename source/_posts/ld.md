@@ -3,7 +3,7 @@ title: 雷点
 date: 2026-10-25 19:45:30
 tags:
     - 开心一刻
-cover:
+cover: https://cdn.jsdelivr.net/gh/ZePhyr067/Hexo-photos@main/blogcover/Yagami_zd.jpg
 ---
 漫展扩列刚扩完，好友刚通过给我发了个800字的作文，全都是ta的雷点，还有ta讨厌的cp。ta说如果我在朋友圈发这些被ta刷到了，会有很严重的后果。
 呃，我说wok，我加到皇阿玛了这是。

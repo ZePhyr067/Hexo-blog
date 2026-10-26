@@ -3,6 +3,7 @@ title: 谁问你了
 date: 2026-10-23 10:17:49
 tags:
     - 开心一刻 
+cover: https://cdn.jsdelivr.net/gh/ZePhyr067/Hexo-photos@main/blogcover/Priestess_watchingyou.jpg
 ---
 你说得对，但是有一个小问题：
 
